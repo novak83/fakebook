@@ -1,0 +1,24 @@
+h1 {
+    color: pink;
+}
+
+.red {
+    color: red;
+}
+/* This is front styling */
+.monospace {
+    font-family: monospace;
+    font-size: 35px;
+}
+#blue {
+    color: blue;
+}
+
+img {
+    width: 200px;
+    border: 4px black dotted;
+}
+
+img:hover{
+    border: 4px red solid;
+}
